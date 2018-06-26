@@ -15,12 +15,12 @@
     </parent>
 
     <modules>
-        <module>internal-api-starters</module>
-        <module>api-starters</module>
-        <module>kotlin-starters</module>
-        <module>web-cloud-starters</module>
-        <module>dao-starters</module>
-        <module>web-starters</module>
+        <module>internal-api-starter</module>
+        <module>api-starter</module>
+        <module>kotlin-starter</module>
+        <module>web-cloud-starter</module>
+        <module>dao-starter</module>
+        <module>web-starter</module>
     </modules>
 
     <properties>
